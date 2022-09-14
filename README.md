@@ -1,2 +1,2 @@
-# Mr.-Kanfused-YT
-Automatic desktop refresh using python pyautogui
+#Automatic desktop refresh using python pyautogui
+
